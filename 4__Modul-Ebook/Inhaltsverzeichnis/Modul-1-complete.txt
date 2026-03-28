@@ -1,0 +1,350 @@
+Woche 1. - Abschnitt: Python & Technisches Fundament
+	PY-01-Getting-Started-with-Python
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	PY-02-Variables-and-Types
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	PY-03-IDE
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	PY-04-Conditions
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	TF-01-Terminal
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	TF-02-Editors-and-Shortcuts
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+
+	Dann: Was habe ich aus dem Wochenprojekt gelernt ? 
+
+Woche 2. - Abschnitt: Python & Technisches Fundament
+	PY-05-Lists & Tupel	
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	PY-06-Loops
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	PY-07-Functions
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	TF-03-Hardware
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+
+	TF-04-Numeral Systems & Binary Operations
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	TF-05-Data Encoding
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+
+	Dann: Was habe ich aus dem Wochenprojekt gelernt ? 
+
+
+Woche 3. - Abschnitt: Python & Technisches Fundament
+	PY-08-Debugging
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	PY-09-Dictionaries
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	PY-10-Strings
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	TF-6-Data Formats
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	TF-7-Databases & SQL
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	TF-8-Advanced SQL
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+
+	Dann: Was habe ich aus dem Wochenprojekt gelernt ? 
+
+
+Woche 4. - Abschnitt: Python & Technisches Fundament
+	PY-11-Modules
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	PY-12-Files
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	PY-13-Error-Handling
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	PY-14-OOP
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	PY-15-Opensource-and-Git
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	TF-09-Regular-Expressions
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+
+	Dann: Was habe ich aus dem Wochenprojekt gelernt ? 
+
+
+Woche 5. - Abschnitt: Technisches Fundament & Netzwerke
+	NW-01-How-Does-The-Internet-Work
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	NW-02-Sockets
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+
+	NW-03-5-Layer-Model-and-Wireshark(hier weiter)
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	NW-04-Advanced-Wireshark
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	TF-10-Encryption
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+
+	TF-11-Certificates-and-Signatures
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+
+	Dann: Was habe ich aus dem Wochenprojekt gelernt ? 
+
+
+Woche 6. - Abschnitt: Netzwerke & Web
+	NW-05-Application-Layer-HTTP
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+
+	WEB-01-Intro-to-the-Web,-HTML-&-CSS
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	WEB-02-JavaScript
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	WEB-03-Server-Side-&-Flask
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	WEB-04-Cookies-&-State
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	WEB-05-API-&-Authentication
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+
+	Dann: Was habe ich aus dem Wochenprojekt gelernt ? 
+
+
+Woche 7. - Abschnitt: Netzwerke & Technisches Fundament
+	NW-06-Application-Layer-Common Protocols
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	NW-07-Application-Layer-DNS
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	NW-08-Application-Layer-Proxies
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	NW-09-Application-Layer-TCP
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	NW-10-Application-Layer-UDP
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	TF 12 - Compression
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+
+	Dann: Was habe ich aus dem Wochenprojekt gelernt ? 
+
+
+Woche 8. - Abschnitt: Netzwerke & OS
+	NW-11-Network-Layer-IP-Subnets&Routing
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+
+	NW-12-Network-Layer-Private-Addresses-NAT&PAT
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	NW-13-Network-Layer-DHCP
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+
+	NW-14-Network-Layer-VPN&Tunneling
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	OS 1-Intro-to-OS(Mac)
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	OS 2 - Windows Intro
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+
+	Dann: Was habe ich aus dem Wochenprojekt gelernt ? 
+
+
+Woche 9. - Abschnitt: Netzwerke & OS
+	NW-15-Datalink-Layer,Ethernet-Topologies&Switches
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	NW-16-Datalink-Layer-ARP
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	NW-17-Datalink-Layer-VLANs
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+
+	NW-18-Physical-Layer-Connectivity&Speed
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+					Dann: Was habe ich aus dem Wochenprojekt gelernt ?
+ 
+	NW-19-Physical-Layer-Wi-Fi&Wireless
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	OS 3-Tools&Troubleshooting
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+
+	Dann: Was habe ich aus dem Wochenprojekt gelernt ? 
+
+
+Woche 10. - Abschnitt: OS
+	OS 4 - PowerShell
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	OS 5 - Processes & Threads
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+
+	OS 6 - Scheduling & Synchronization Blocks
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	OS 7 - Memory
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	OS 8 - Executables
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+
+	Dann: Was habe ich aus dem Wochenprojekt gelernt ? 
+
+Woche 10. - Abschnitt: OS
+	OS 9-File-Systems&Storage
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	OS 10-Registry
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+
+	OS 11-Permissions-Authentication&Users
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	OS 12 - Services & Startup
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	OS 13 - OS Hardening & Security
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+	OS 14 - Unix & Linux
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+
+	Dann: Was habe ich aus dem Wochenprojekt gelernt ? 
+
+#################################################################################################################################################
+#################################################################################################################################################
+#################################################################################################################################################
+
+Was will ich haben: 
+1. Inhaltsverzeichnisaufbau: 
+	1 Kapitel = 1 Woche, wähle als Überschrift dann eines oder 2 der folgenden Themen (Python, Technical Fundament, Network, Web, OS) 
+	Sieht dann so aus: 
+			Week 1 - Python & Technisches Fundament 
+			Week 5 - Technisches Fundament & Netzwerke 
+			usw.
+
+		Dann Kapitel: Week 1 - Python
+			Dann Pro Woche (Kapitel) : 
+				PY-01-Getting-Started-with-Python:
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+				Dann: Was habe ich aus dem Wochenprojekt gelernt ? 
+				
+				PY-02-Variables-and-Types:
+					Dann: Zusammenfassung
+					Dann: Tools-Begriffe
+					Dann: Was habe ich aus der Aufgabe gelernt ?
+					Dann: Was habe ich aus dem Wochenprojekt gelernt ? 
+
+usw. 

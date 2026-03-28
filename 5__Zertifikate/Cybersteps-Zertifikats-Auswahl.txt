@@ -1,0 +1,18 @@
+## Zertifikate – in dieser Reihenfolgex
+
+**Bereits durch Cybersteps:**
+- CompTIA Security+ ✅
+- Microsoft Azure Fundamentals (AZ-900) ✅
+- HTB CDSA ✅
+
+**Nach Cybersteps (10–11 Monate):**
+
+1. **eJPT v2** · INE/eLearnSecurity · ~200 € · 1–2 Monate
+2. **OSCP+** · Offensive Security · ~1.500 € · 6–8 Monate
+3. **CompTIA SecAI+** · CompTIA · ~360 $ · 2–3 Monate *(parallel zum OSCP möglich)*
+
+**Danach (Jahr 2–3):**
+
+4. **CAISP** · Practical DevSecOps · ~1.099 $ · 4–8 Wochen + 60-Tage-Lab
+5. **CISSP** · (ISC)² · ~749 $ · 6–12 Monate
+6. **EU AI Act Auditor** · ~599–2.500 $ · 2–4 Monate

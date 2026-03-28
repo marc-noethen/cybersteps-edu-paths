@@ -1,0 +1,2 @@
+**Recon value:**  
+The banners reveal software names, versions, protocol readiness, welcome messages or configuration hints. This information is valuable for reconnaissance because it helps identify possible vulnerabilities, check for outdated services, discover internal hostnames, and understand the attack surface.
