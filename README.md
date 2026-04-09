@@ -97,15 +97,15 @@ Module 4: Specialization       ░░░░░░░░░░░░░░░░�
 |  1   | Python Basics, Terminal, Editors           | The Password Game        |   ✅    |
 |  2   | Hardware, Binary, Lists, Loops, Functions  | Terminal Photoshop       |   ✅    |
 |  3   | Data Formats, SQL, Debugging, Dictionaries | C(ybersteps)VE DB        |   ✅    |
-|  4   | Regex, Modules, Files, OOP, Git            | InsightLog 2.0           |   🔲   |
-|  5   | Internet, Sockets, Wireshark, Encryption   | Wazzap                   |   🔲   |
-|  6   | HTML/CSS, JavaScript, Flask, APIs          | -                        |   🔲   |
-|  7   | DNS, Proxies, TCP/UDP, Compression         | Safe Space               |   🔲   |
-|  8   | IP, Subnets, NAT, VPN, Windows Intro       | Agent 007                |   🔲   |
-|  9   | Ethernet, ARP, VLANs, Wi-Fi                | Discovery Channel        |   🔲   |
-|  10  | PowerShell, Processes, Memory, Executables | Proc Blart: Mallware Cop |   🔲   |
-|  11  | File Systems, Registry, Permissions, Linux | Persistent Showdown      |   🔲   |
-|  12  | **Final Project**                          | Second Thoughts          |   🔲   |
+|  4   | Regex, Modules, Files, OOP, Git            | InsightLog 2.0           |   ✅   |
+|  5   | Internet, Sockets, Wireshark, Encryption   | Wazzap                   |   ✅   |
+|  6   | HTML/CSS, JavaScript, Flask, APIs          | -                        |   ✅   |
+|  7   | DNS, Proxies, TCP/UDP, Compression         | Safe Space               |   ✅   |
+|  8   | IP, Subnets, NAT, VPN, Windows Intro       | Agent 007                |   ✅   |
+|  9   | Ethernet, ARP, VLANs, Wi-Fi                | Discovery Channel        |   ✅   |
+|  10  | PowerShell, Processes, Memory, Executables | Proc Blart: Mallware Cop |   ✅   |
+|  11  | File Systems, Registry, Permissions, Linux | Persistent Showdown      |   ✅   |
+|  12  | **Final Project**                          | Second Thoughts          |   ✅   |
 
 <details>
 <summary><b>📋 Week 1 - Python & Technical Foundations (Detailed)</b></summary>
@@ -125,7 +125,7 @@ Module 4: Specialization       ░░░░░░░░░░░░░░░░�
 | TF 2 | Editors & Shortcuts | ✅ |
 
 #### 🎯 Weekly Project: The Password Game
-Status: ✅ Completed
+Status: ✅ Passed
 
 </details>
 
@@ -135,19 +135,19 @@ Status: ✅ Completed
 #### Technical Foundations (TF)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| TF 3 | Hardware | 🔲 |
-| TF 4 | Numeral Systems & Binary Operations | 🔲 |
-| TF 5 | Data Encoding | 🔲 |
+| TF 3 | Hardware | ✅ |
+| TF 4 | Numeral Systems & Binary Operations | ✅ |
+| TF 5 | Data Encoding | ✅ |
 
 #### Python (PY)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| PY 5 | Lists | 🔲 |
-| PY 6 | Loops | 🔲 |
-| PY 7 | Functions | 🔲 |
+| PY 5 | Lists | ✅ |
+| PY 6 | Loops | ✅ |
+| PY 7 | Functions | ✅ |
 
 #### 🎯 Weekly Project: Terminal Photoshop
-Status: 🔲 Pending
+Status: ✅ Passed
 
 </details>
 
@@ -157,19 +157,19 @@ Status: 🔲 Pending
 #### Technical Foundations (TF)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| TF 6 | Data Formats | 🔲 |
-| TF 7 | Databases & SQL | 🔲 |
-| TF 8 | Advanced SQL | 🔲 |
+| TF 6 | Data Formats | ✅ |
+| TF 7 | Databases & SQL | ✅ |
+| TF 8 | Advanced SQL | ✅ |
 
 #### Python (PY)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| PY 8 | Debugging | 🔲 |
-| PY 9 | Dictionaries | 🔲 |
-| PY 10 | Strings | 🔲 |
+| PY 8 | Debugging | ✅ |
+| PY 9 | Dictionaries | ✅ |
+| PY 10 | Strings | ✅ |
 
 #### 🎯 Weekly Project: C(ybersteps)VE DB
-Status: 🔲 Pending
+Status: ✅ Passed
 
 </details>
 
@@ -179,19 +179,19 @@ Status: 🔲 Pending
 #### Technical Foundations (TF)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| TF 9 | Regular Expressions | 🔲 |
+| TF 9 | Regular Expressions | ✅ |
 
 #### Python (PY)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| PY 11 | Modules | 🔲 |
-| PY 12 | Files | 🔲 |
-| PY 13 | Error Handling | 🔲 |
-| PY 14 | OOP | 🔲 |
-| PY 15 | Opensource & Git | 🔲 |
+| PY 11 | Modules | ✅ |
+| PY 12 | Files | ✅ |
+| PY 13 | Error Handling | ✅ |
+| PY 14 | OOP | ✅ |
+| PY 15 | Opensource & Git | ✅ |
 
 #### 🎯 Weekly Project: InsightLog 2.0
-Status: 🔲 Pending
+Status: ✅ Passed
 
 </details>
 
@@ -201,19 +201,19 @@ Status: 🔲 Pending
 #### Networking (NW)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| NW 1 | How does the internet work | 🔲 |
-| NW 2 | Sockets | 🔲 |
-| NW 3 | 5 Layer Model & Wireshark | 🔲 |
-| NW 4 | Advanced Wireshark | 🔲 |
+| NW 1 | How does the internet work | ✅ |
+| NW 2 | Sockets | ✅ |
+| NW 3 | 5 Layer Model & Wireshark | ✅ |
+| NW 4 | Advanced Wireshark | ✅ |
 
 #### Technical Foundations (TF)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| TF 10 | Encryption | 🔲 |
-| TF 11 | Certificates & Signatures | 🔲 |
+| TF 10 | Encryption | ✅ |
+| TF 11 | Certificates & Signatures | ✅ |
 
 #### 🎯 Weekly Project: Wazzap
-Status: 🔲 Pending
+Status: ✅ Passed
 
 </details>
 
@@ -223,16 +223,16 @@ Status: 🔲 Pending
 #### Web (WEB)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| WEB 1 | Intro to the Web, HTML & CSS | 🔲 |
-| WEB 2 | JavaScript | 🔲 |
-| WEB 3 | Server-Side & Flask | 🔲 |
-| WEB 4 | Cookies & State | 🔲 |
-| WEB 5 | API & Authentication | 🔲 |
+| WEB 1 | Intro to the Web, HTML & CSS | ✅ |
+| WEB 2 | JavaScript | ✅ |
+| WEB 3 | Server-Side & Flask | ✅ |
+| WEB 4 | Cookies & State | ✅ |
+| WEB 5 | API & Authentication | ✅ |
 
 #### Networking (NW)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| NW 5 | Application Layer - HTTP | 🔲 |
+| NW 5 | Application Layer - HTTP | ✅ |
 
 </details>
 
@@ -242,19 +242,19 @@ Status: 🔲 Pending
 #### Networking (NW)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| NW 6 | Application Layer - Common Protocols | 🔲 |
-| NW 7 | Application Layer - DNS | 🔲 |
-| NW 8 | Application Layer - Proxies | 🔲 |
-| NW 9 | Application Layer - TCP | 🔲 |
-| NW 10 | Application Layer - UDP | 🔲 |
+| NW 6 | Application Layer - Common Protocols | ✅ |
+| NW 7 | Application Layer - DNS | ✅ |
+| NW 8 | Application Layer - Proxies | ✅ |
+| NW 9 | Application Layer - TCP | ✅ |
+| NW 10 | Application Layer - UDP | ✅ |
 
 #### Technical Foundations (TF)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| TF 12 | Compression | 🔲 |
+| TF 12 | Compression | ✅ |
 
 #### 🎯 Weekly Project: Safe Space
-Status: 🔲 Pending
+Status: ✅ Passed
 
 </details>
 
@@ -264,19 +264,19 @@ Status: 🔲 Pending
 #### Networking (NW)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| NW 11 | Network Layer - IP, Subnets, & Routing | 🔲 |
-| NW 12 | Network Layer - Private Addresses, NAT & PAT | 🔲 |
-| NW 13 | Network Layer - DHCP | 🔲 |
-| NW 14 | Network Layer - VPN & Tunneling | 🔲 |
+| NW 11 | Network Layer - IP, Subnets, & Routing | ✅ |
+| NW 12 | Network Layer - Private Addresses, NAT & PAT | ✅ |
+| NW 13 | Network Layer - DHCP | ✅ |
+| NW 14 | Network Layer - VPN & Tunneling | ✅ |
 
 #### Operating Systems (OS)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| OS 1 | Intro to OS | 🔲 |
-| OS 2 | Windows Intro | 🔲 |
+| OS 1 | Intro to OS | ✅ |
+| OS 2 | Windows Intro | ✅ |
 
 #### 🎯 Weekly Project: Agent 007
-Status: 🔲 Pending
+Status: ✅ Passed
 
 </details>
 
@@ -286,19 +286,19 @@ Status: 🔲 Pending
 #### Networking (NW)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| NW 15 | Datalink Layer - Ethernet, Topologies, & Switches | 🔲 |
-| NW 16 | Datalink Layer - ARP | 🔲 |
-| NW 17 | Datalink Layer - VLANs | 🔲 |
-| NW 18 | Physical Layer - Connectivity & Speed | 🔲 |
-| NW 19 | Physical Layer - Wi-Fi & Wireless | 🔲 |
+| NW 15 | Datalink Layer - Ethernet, Topologies, & Switches | ✅ |
+| NW 16 | Datalink Layer - ARP | ✅ |
+| NW 17 | Datalink Layer - VLANs | ✅ |
+| NW 18 | Physical Layer - Connectivity & Speed | ✅ |
+| NW 19 | Physical Layer - Wi-Fi & Wireless | ✅ |
 
 #### Operating Systems (OS)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| OS 3 | Tools & Troubleshooting | 🔲 |
+| OS 3 | Tools & Troubleshooting | ✅ |
 
 #### 🎯 Weekly Project: Discovery Channel
-Status: 🔲 Pending
+Status: ✅ Passed
 
 </details>
 
@@ -308,14 +308,14 @@ Status: 🔲 Pending
 #### Operating Systems (OS)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| OS 4 | PowerShell | 🔲 |
-| OS 5 | Processes & Threads | 🔲 |
-| OS 6 | Scheduling & Synchronization | 🔲 |
-| OS 7 | Memory | 🔲 |
-| OS 8 | Executables | 🔲 |
+| OS 4 | PowerShell | ✅ |
+| OS 5 | Processes & Threads | ✅ |
+| OS 6 | Scheduling & Synchronization | ✅ |
+| OS 7 | Memory | ✅ |
+| OS 8 | Executables | ✅ |
 
 #### 🎯 Weekly Project: Proc Blart: Mallware Cop
-Status: 🔲 Pending
+Status: ✅ Passed
 
 </details>
 
@@ -325,15 +325,15 @@ Status: 🔲 Pending
 #### Operating Systems (OS)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| OS 9 | File Systems & Storage | 🔲 |
-| OS 10 | Registry | 🔲 |
-| OS 11 | Permissions, Authentication & Users | 🔲 |
-| OS 12 | Services & Startup | 🔲 |
-| OS 13 | OS Hardening & Security | 🔲 |
-| OS 14 | Unix & Linux | 🔲 |
+| OS 9 | File Systems & Storage | ✅ |
+| OS 10 | Registry | ✅ |
+| OS 11 | Permissions, Authentication & Users | ✅ |
+| OS 12 | Services & Startup | ✅ |
+| OS 13 | OS Hardening & Security | ✅ |
+| OS 14 | Unix & Linux | ✅ |
 
 #### 🎯 Weekly Project: Persistent Showdown
-Status: 🔲 Pending
+Status: ✅ Passed
 
 </details>
 
@@ -341,7 +341,7 @@ Status: 🔲 Pending
 <summary><b>📋 Week 12 - Final Project</b></summary>
 
 #### 🎯 Module 1 Final Project: Second Thoughts
-Status: 🔲 Pending
+Status: ✅ Passed
 
 </details>
 
@@ -349,7 +349,7 @@ Status: 🔲 Pending
 
 ## 🔒 Module 2 - Core Cybersecurity
 
-> **Duration:** 13 Weeks (September 8 - December 7)  
+> **Duration:** 13 Weeks   
 > **Topics:** Ethical Hacking, Web Security, Cryptography, SIEM, Forensics, GRC  
 > **Certification:** CompTIA Security+
 
@@ -357,19 +357,19 @@ Status: 🔲 Pending
 
 | Week | Topics | Project | Status |
 |:----:|:-------|:--------|:------:|
-| 1 | Ethical Hacking, Reconnaissance | Surface Tension | 🔲 |
-| 2 | SQL Injection, XSS, Auth Bypass | Fresh Juice | 🔲 |
-| 3 | Social Engineering, Phishing | Be Aware | 🔲 |
+| 1 | Ethical Hacking, Reconnaissance | Surface Tension | ✅ |
+| 2 | SQL Injection, XSS, Auth Bypass | Fresh Juice | ✅ |
+| 3 | Social Engineering, Phishing | Be Aware | ✅ |
 | 4 | *Holidays - No Classes* | - | ⏸️ |
-| 5 | Cryptography, Key Exchange, TLS | Chef's Corner | 🔲 |
-| 6 | Vulnerability Scanning, Metasploit | Think Inside the Box | 🔲 |
-| 7 | Active Directory, Lateral Movement | - | 🔲 |
-| 8 | Malware Analysis, Endpoint Security | Putty Patrol | 🔲 |
-| 9 | SIEM, Security Monitoring | Boss of the SOC | 🔲 |
-| 10 | Digital Forensics (Disk, Memory, Network) | The Stolen Szechuan Sauce | 🔲 |
-| 11 | GRC, Risk Assessment, Compliance | Protect the Attacker | 🔲 |
-| 12 | **Capstone Project** | Game of Active Directory | 🔲 |
-| 13 | Security+ Exam Preparation | - | 🔲 |
+| 5 | Cryptography, Key Exchange, TLS | Chef's Corner | ✅ |
+| 6 | Vulnerability Scanning, Metasploit | Think Inside the Box | ✅ |
+| 7 | Active Directory, Lateral Movement | - | ✅ |
+| 8 | Malware Analysis, Endpoint Security | Putty Patrol | ✅ |
+| 9 | SIEM, Security Monitoring | Boss of the SOC | ✅ |
+| 10 | Digital Forensics (Disk, Memory, Network) | The Stolen Szechuan Sauce | ✅ |
+| 11 | GRC, Risk Assessment, Compliance | Protect the Attacker | ✅ |
+| 12 | **Capstone Project** | Game of Active Directory | ✅ |
+| 13 | Security+ Exam Preparation | - | ✅ |
 
 <details>
 <summary><b>📋 Week 1 - Reconnaissance & Enumeration</b></summary>
@@ -381,18 +381,18 @@ Status: 🔲 Pending
 #### Reconnaissance & Enumeration (R&E)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| R&E 1 | Welcome to Module 2 & Intro to Ethical Hacking | 🔲 |
-| R&E 2 | Passive Reconnaissance | 🔲 |
-| R&E 3 | Active Reconnaissance | 🔲 |
-| R&E 4 | Service Enumeration | 🔲 |
+| R&E 1 | Welcome to Module 2 & Intro to Ethical Hacking | ✅ |
+| R&E 2 | Passive Reconnaissance | ✅ |
+| R&E 3 | Active Reconnaissance | ✅ |
+| R&E 4 | Service Enumeration | ✅ |
 
 #### Web Hacking (WH)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| WH 1 | Intro to Web Hacking | 🔲 |
+| WH 1 | Intro to Web Hacking | ✅ |
 
 #### 🎯 Weekly Project: Surface Tension
-Status: 🔲 Pending
+Status: ✅ Passed
 
 </details>
 
@@ -406,17 +406,17 @@ Status: 🔲 Pending
 #### Web Hacking (WH)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| WH 2 | SQL Injection (SQLi) | 🔲 |
-| WH 3 | Cross-Site Scripting (XSS) | 🔲 |
-| WH 4 | Broken Authentication and Access Control | 🔲 |
+| WH 2 | SQL Injection (SQLi) | ✅ |
+| WH 3 | Cross-Site Scripting (XSS) | ✅ |
+| WH 4 | Broken Authentication and Access Control | ✅ |
 
 #### Social Engineering (SE)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| SE 1 | Social Engineering Intro & Passwords | 🔲 |
+| SE 1 | Social Engineering Intro & Passwords | ✅ |
 
 #### 🎯 Weekly Project: Fresh Juice
-Status: 🔲 Pending
+Status: ✅ Passed
 
 </details>
 
@@ -430,17 +430,17 @@ Status: 🔲 Pending
 #### Social Engineering (SE)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| SE 2 | The Target: Credentials, Sessions & Tokens | 🔲 |
-| SE 3 | Phishing Attacks & Email Defenses | 🔲 |
-| SE 4 | Advanced Phishing & MFA | 🔲 |
+| SE 2 | The Target: Credentials, Sessions & Tokens | ✅ |
+| SE 3 | Phishing Attacks & Email Defenses | ✅ |
+| SE 4 | Advanced Phishing & MFA | ✅ |
 
 #### Cryptography (CR)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| CR 1 | Symmetric Encryption & Hashing | 🔲 |
+| CR 1 | Symmetric Encryption & Hashing | ✅ |
 
 #### 🎯 Weekly Project: Be Aware
-Status: 🔲 Pending
+Status: ✅ Passed
 
 </details>
 
@@ -453,17 +453,17 @@ Status: 🔲 Pending
 #### Cryptography (CR)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| CR 2 | Asymmetric Encryption & Diffie-Hellman Key Exchange | 🔲 |
-| CR 3 | Certificates & TLS | 🔲 |
-| CR 4 | MitM & Cryptographic Attacks | 🔲 |
+| CR 2 | Asymmetric Encryption & Diffie-Hellman Key Exchange | ✅ |
+| CR 3 | Certificates & TLS | ✅ |
+| CR 4 | MitM & Cryptographic Attacks | ✅ |
 
 #### System Vulnerability & Exploitation (SVE)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| SVE 1 | Vulnerability Scanning & Discovery | 🔲 |
+| SVE 1 | Vulnerability Scanning & Discovery | ✅ |
 
 #### 🎯 Weekly Project: Chef's Corner
-Status: 🔲 Pending
+Status: ✅ Passed
 
 </details>
 
@@ -477,17 +477,17 @@ Status: 🔲 Pending
 #### System Vulnerability & Exploitation (SVE)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| SVE 2 | Exploitation with Metasploit | 🔲 |
-| SVE 3 | Exploiting Misconfigurations: Boot to Root | 🔲 |
-| SVE 4 | Common Software Vulnerabilities | 🔲 |
+| SVE 2 | Exploitation with Metasploit | ✅ |
+| SVE 3 | Exploiting Misconfigurations: Boot to Root | ✅ |
+| SVE 4 | Common Software Vulnerabilities | ✅ |
 
 #### Post-Exploitation & Lateral Movement (Pe&LM)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| Pe&LM 1 | Post-Exploitation Intro & Windows Privilege Escalation | 🔲 |
+| Pe&LM 1 | Post-Exploitation Intro & Windows Privilege Escalation | ✅ |
 
 #### 🎯 Weekly Project: Think Inside the Box
-Status: 🔲 Pending
+Status: ✅ Passed
 
 </details>
 
@@ -501,15 +501,15 @@ Status: 🔲 Pending
 #### Post-Exploitation & Lateral Movement (Pe&LM)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| Pe&LM 2 | Active Directory Fundamentals | 🔲 |
-| Pe&LM 3 | Windows Credentials Attacks | 🔲 |
-| Pe&LM 4 | Windows Lateral Movement | 🔲 |
-| Pe&LM 5 | Attacking Active Directory | 🔲 |
+| Pe&LM 2 | Active Directory Fundamentals | ✅ |
+| Pe&LM 3 | Windows Credentials Attacks | ✅ |
+| Pe&LM 4 | Windows Lateral Movement | ✅ |
+| Pe&LM 5 | Attacking Active Directory | ✅ |
 
 #### Malware Analysis & Endpoint Protection (MAEP)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| MAEP 1 | Intro to Malware & Threat Intelligence | 🔲 |
+| MAEP 1 | Intro to Malware & Threat Intelligence | ✅ |
 
 </details>
 
@@ -523,17 +523,17 @@ Status: 🔲 Pending
 #### Malware Analysis & Endpoint Protection (MAEP)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| MAEP 2 | Static Malware Analysis | 🔲 |
-| MAEP 3 | Dynamic Malware Analysis | 🔲 |
-| MAEP 4 | Malware Defense | 🔲 |
+| MAEP 2 | Static Malware Analysis | ✅ |
+| MAEP 3 | Dynamic Malware Analysis | ✅ |
+| MAEP 4 | Malware Defense | ✅ |
 
 #### SIEM (Security Information & Event Management)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| SIEM 1 | Intro to Security Monitoring and SIEM | 🔲 |
+| SIEM 1 | Intro to Security Monitoring and SIEM | ✅ |
 
 #### 🎯 Weekly Project: Putty Patrol
-Status: 🔲 Pending
+Status: ✅ Passed
 
 </details>
 
@@ -547,17 +547,17 @@ Status: 🔲 Pending
 #### SIEM (Security Information & Event Management)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| SIEM 2 | SIEM Investigation | 🔲 |
-| SIEM 3 | Network Security Monitoring | 🔲 |
-| SIEM 4 | Endpoint Security Monitoring | 🔲 |
+| SIEM 2 | SIEM Investigation | ✅ |
+| SIEM 3 | Network Security Monitoring | ✅ |
+| SIEM 4 | Endpoint Security Monitoring | ✅ |
 
 #### Digital Forensics & Incident Response (DFIR)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| DFIR 1 | Intro to DFIR | 🔲 |
+| DFIR 1 | Intro to DFIR | ✅ |
 
 #### 🎯 Weekly Project: Boss of the SOC
-Status: 🔲 Pending
+Status: ✅ Passed
 
 </details>
 
@@ -570,17 +570,17 @@ Status: 🔲 Pending
 #### Digital Forensics & Incident Response (DFIR)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| DFIR 2 | Disk Forensics | 🔲 |
-| DFIR 3 | Memory Forensics | 🔲 |
-| DFIR 4 | Network Forensics | 🔲 |
+| DFIR 2 | Disk Forensics | ✅ |
+| DFIR 3 | Memory Forensics | ✅ |
+| DFIR 4 | Network Forensics | ✅ |
 
 #### Governance, Risk & Compliance (GRC)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| GRC 1 | Intro to GRC & Security Frameworks | 🔲 |
+| GRC 1 | Intro to GRC & Security Frameworks | ✅ |
 
 #### 🎯 Weekly Project: The Stolen Szechuan Sauce
-Status: 🔲 Pending
+Status: ✅ Passed
 
 </details>
 
@@ -594,12 +594,12 @@ Status: 🔲 Pending
 #### Governance, Risk & Compliance (GRC)
 | Lesson | Topic | Status |
 |:-------|:------|:------:|
-| GRC 2 | Risk Assessment & Management | 🔲 |
-| GRC 3 | Compliance & Regulation | 🔲 |
-| GRC 4 | Governance & Policy | 🔲 |
+| GRC 2 | Risk Assessment & Management | ✅ |
+| GRC 3 | Compliance & Regulation | ✅ |
+| GRC 4 | Governance & Policy | ✅ |
 
 #### 🎯 Weekly Project: Protect the Attacker
-Status: 🔲 Pending
+Status: ✅ Passed
 
 </details>
 
@@ -607,7 +607,7 @@ Status: 🔲 Pending
 <summary><b>📋 Week 12 - Capstone Project</b></summary>
 
 #### 🎯 Capstone Project: Game of Active Directory
-Status: 🔲 Pending
+Status: ✅ Passed
 
 </details>
 
@@ -619,7 +619,7 @@ Status: 🔲 Pending
 - Review Materials
 - Final Preparation
 
-Status: 🔲 Pending
+Status: ✅ Passed
 
 </details>
 
@@ -631,14 +631,12 @@ The program prepares for **8 industry-recognized certifications**:
 
 | Certification | Status | Module | Domain |
 |:--------------|:------:|:------:|:-------|
-| CompTIA Security+ | 🔲 | 2 | Security Fundamentals |
+| CompTIA Security+ | 📝 | 2 | Security Fundamentals |
 | CompTIA Network+ | 🔲 | 1 | Networking |
 | Microsoft Azure Fundamentals (AZ-900) | 🔲 | 3 | Cloud |
 | Microsoft Azure Security (AZ-500) | 🔲 | 3 | Cloud Security |
 | ISO/IEC 27001 | 🔲 | 2 | Compliance & GRC |
-| Certified Ethical Hacker (CEH) | 🔲 | 2 | Penetration Testing |
 | CompTIA CySA+ | 🔲 | 2 | Security Analytics |
-| CISSP Associate | 🔲 | 4 | Advanced Security |
 
 > ✅ = Passed | 📝 = In Progress | 🔲 = Pending
 
