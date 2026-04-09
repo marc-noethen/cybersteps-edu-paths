@@ -688,7 +688,7 @@ cybersteps-edu-paths/
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-BSOD--Twins--Error0508-181717?style=for-the-badge&logo=github)](https://github.com/BSOD-Twins-Error0508)
+[![GitHub](https://img.shields.io/badge/GitHub-BSOD--Twins--Error0508-181717?style=for-the-badge&logo=github)](https://github.com/marc-noethen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 
 </div>
@@ -703,6 +703,6 @@ cybersteps-edu-paths/
 
 **Module 1:** 12 Weeks | **Module 2:** 13 Weeks | **Total:** 25+ Weeks of Training
 
-<sub>📅 Last Updated: January 2026 | 🚀 Powered by Cybersteps</sub>
+<sub>📅 Last Updated: April 2026 | 🚀 Powered by Cybersteps</sub>
 
 </div>
