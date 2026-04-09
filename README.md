@@ -77,9 +77,9 @@
 ## 📊 Overall Progress
 
 ```
-Module 1: Foundations          ████░░░░░░░░░░░░░░░░   8% (Week 1/12)
-Module 2: Core Cybersecurity   ░░░░░░░░░░░░░░░░░░░░   0% (Week 0/13)
-Module 3: Enterprise Security  ░░░░░░░░░░░░░░░░░░░░   0% (Not Started)
+Module 1: Foundations          ████████████████████   100% (Week 12/12)
+Module 2: Core Cybersecurity   ████████████████████   100% (Week 11/11)
+Module 3: Enterprise Security  █░░░░░░░░░░░░░░░░░░░   0% (Week 1/..)
 Module 4: Specialization       ░░░░░░░░░░░░░░░░░░░░   0% (Not Started)
 ```
 
